@@ -4,7 +4,7 @@ export default function StepCounterTeble({ walks, onDelete }) {
   return (
     <>
       <div className="step">
-        <div className="step_date">Дата (ДД.ЬЬ.ГГГГ)</div>
+        <div className="step_date">Дата (ДД.ММ.ГГГГ)</div>
         <div className="step_distance">Пройдено км</div>
         <div className="actions">Действия</div>
       </div>
